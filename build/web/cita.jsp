@@ -1,0 +1,1 @@
+<%response.sendRedirect("Cita?accion=SEL2");%>
